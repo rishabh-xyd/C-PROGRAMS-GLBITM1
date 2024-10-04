@@ -1,3 +1,4 @@
+//calculate profit and loss
 #include<stdio.h>
 int main(){
     float CP,SP;
